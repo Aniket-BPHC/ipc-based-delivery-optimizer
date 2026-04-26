@@ -27,6 +27,7 @@ The system interacts with helper and solver processes using inter-process commun
 
 All files are kept in the same directory:
 
+'''
 .
 ├── solution.c # Main implementation
 ├── helper.c # Helper process
@@ -34,6 +35,7 @@ All files are kept in the same directory:
 ├── testcase_gen.py # Testcase generator
 ├── input.txt # Generated testcase
 ├── README.md
+'''
 
 ## Generating Testcases
 
